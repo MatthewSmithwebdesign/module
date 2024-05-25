@@ -1,0 +1,7 @@
+name: 'HTML5 Audio'
+type: module
+description: 'Html 5 audio field formatter for link fields.'
+package: Training
+core_version_requirement: ^10 || ^11
+dependencies:
+  - link:link
