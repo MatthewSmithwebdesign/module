@@ -1,0 +1,7 @@
+name: 'User blocker'
+type: module
+description: 'A Module to set up a user moderation role and block users'
+package: Testing
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:user
